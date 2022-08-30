@@ -2,7 +2,7 @@
 
 # Theme Switcher
 
-SvelteKit Skeleton boilerplate with persistent theme switching (dark/light mode) configured.
+SvelteKit (Skeleton) + TailwindCSS boilerplate with persistent theme switching (dark/light mode) configured.
 
 ## Developing
 
