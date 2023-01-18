@@ -1,4 +1,4 @@
-<img alt="Svelte Logo" align="right" src="https://res.cloudinary.com/willkre/image/upload/v1661893360/svelte-tailwind-icon.png" width="30%" />
+<img alt="Svelte Logo" align="right" src="https://res.cloudinary.com/willkre/image/upload/v1667426309/Blogs/svelte-tailwind_h1jqod.png" width="30%" />
 
 # Theme Switcher
 
@@ -10,9 +10,6 @@ Once you've created a project and installed dependencies with `npm install` (or 
 
 ```bash
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
 ## Building
